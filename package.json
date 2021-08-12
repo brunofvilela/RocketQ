@@ -1,0 +1,27 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Curso Rocketseat",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunofvilela/RocketQ.git"
+  },
+  "keywords": [],
+  "author": "Bruno Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunofvilela/RocketQ/issues"
+  },
+  "homepage": "https://github.com/brunofvilela/RocketQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
